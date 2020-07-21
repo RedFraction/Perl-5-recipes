@@ -5,8 +5,8 @@ use utf8;
 my $str = <<END;
 I'll kill you when you dreams to night... 
 END
- 
-my $filename = '/home/redfraction/Desktop/_Perl/iteract with files/_testFiles/writeRightNow.txt';
+
+my $filename = '/home/redfraction/Desktop/_dev_null/_Perl/iteract with files/_testFiles/writeRightNow.txt';
  
 open(FH, '>', $filename) or die $!;
  
