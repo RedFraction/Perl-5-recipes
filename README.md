@@ -1,5 +1,5 @@
 # Perl-5 - Tricks-Tips
-###Perl cooked pieces all you need - in one place.
+### Perl cooked pieces. All you need - in one place.
 
 #### ObjectOriented -
 Examples how to use object oriented programming in Perl5.
